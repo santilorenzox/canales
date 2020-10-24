@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1,FOX SPORTS
+https://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/dash/FoxSports-video=2499968.track_id=10007-5504510272897.mp4
+
+#EXTINF:-1,FOX SPORTS 2
+https://edge-live12-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/dash/FoxSports2HD-video=3900000.track_id=10004-5504525026067.mp4
+
+#EXTINF:-1,ESPN
+https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?uedxb
+
+#EXTINF:-1,ESPN 2
+https://sv.tsnt.xyz/espn/espn2o_sur.m3u8?Mzk1MjQ5NTQ=
+
+#EXTINF:-1,ESPN 3
+https://e10.habrox.xyz/ingestnb4s/espn3_sur/f.m3u8
+
+#EXTINF:-1,DIRECTV SPORTS
+https://e2.habrox.xyz/ingest013/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=eCtxc4JRchntBVcyCAwNZw&expires=1603569265&rnd=
+
+#EXTINF:-1,TyC SPORTS
+https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/dash/TyCSport-audio_20001=145200.track_id=20001-8807260859134.mp4
+
+#EXTINF:-1,VTV
+https://ul.cdn946.net:8443/hls/q2ju65ebedu.m3u8?s=AX0fLasqFT7LdTjGoRD3JA&e=1603576810
+
+#EXTINF:-1,TV PUBLICA
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/Canal7/SA_Live_dash_enc_2A/dash/Canal7-video=2499968.track_id=10007-5504547195249.mp4
+
+#EXTINF:-1,SPACE
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_720_av-p.m3u8?sd=10&rebase=on&id=AgCnPPiUsx8wJDVQlF8IQ%2f%2fbBj2nvOfvUpVfjdHkAIEh%2fk1r2PXN5eROwsXHhn9weLI6Wti%2fbHUI5g%3d%3d&hdntl=exp=1603576981~acl=%2f*~data=hdntl~hmac=3cb4fdc8d8533fc96bddfe6a8c1f87c9e53a3f26f752bfe50b011a079860e451
+
+#EXTINF:-1,TNT
+https://espare.tk/live/tnt_lat.m3u8?token=FZI-f8TeHInQcnPUcX3wxg&expires=1603577110
+
+#EXTINF:-1,TNT SERIES
+https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/index_720_av-p.m3u8?sd=10&rebase=on&id=AgCnPPiUsx8wHPRQlF907zGpaZ%2fqOMZXEMq6g6vBhFeuLueCxF5cTCRZuln%2fWd0jZY08aAXkkarB9Q%3d%3d&hdntl=exp=1603641972~acl=%2f*~data=hdntl~hmac=761c14a96846f2c5123f326cd188d565b52b20844ed29d2c43cf08b07d83773f
+
+#EXTINF:-1,FOX
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/dash/FOXHD-video=2499968.track_id=10001-5504341834091.mp4
+
+#EXTINF:-1,FOX SERIES
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOX1HD/SA_Live_dash_enc_2A/dash/FOX1HD-video=2740000.track_id=10003-5504558581512.mp4
+
+#EXTINF:-1,FOX MOVIES
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/dash/FoxMoviesHD-video=3900000.track_id=10004-5504560629495.mp4
+
+#EXTINF:-1,FOX ACTION
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxActionHD/SA_Live_dash_enc_2A/dash/FoxActionHD-video=3900000.track_id=10004-5504563363022.mp4
+
+#EXTINF:-1,FOX CLASSICS
+https://edge-live12-sl.cvattv.com.ar/live/live/FoxClassics/SA_Live_dash_enc_2A/dash/FoxClassics-video=1200000.track_id=10000-5504565156835.mp4
+
