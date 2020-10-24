@@ -1,11 +1,20 @@
 #EXTM3U
-#EXTINF:-1,ESPN
+#EXTINF:-1 ,ESPN tvg-chno="1" tvg-id="espn.com"
 https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?uedxb
-#EXTINF:-1,ESPN 2
+
+#EXTINF:-1 ,ESPN 2 tvg-chno="2" tvg-id="espn2.com"
 https://sv.tsnt.xyz/espn/espn2o_sur.m3u8?Mzk1MjQ5NTQ=
-#EXTINF:-1,ESPN 3
+
+#EXTINF:-1 ,ESPN 3 tvg-chno="3" tvg-id="espn.com"
 https://e10.habrox.xyz/ingestnb4s/espn3_sur/f.m3u8
-#EXTINF:-1,DIRECTV SPORTS
+
+#EXTINF:-1 ,DIRECTV SPORTS tvg-chno="4"
 https://e2.habrox.xyz/ingest013/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=eCtxc4JRchntBVcyCAwNZw&expires=1603569265&rnd=
-#EXTINF:-1,VTV
+
+#EXTINF:-1 ,TyC SPORTS tvg-chno="5" 
+https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/dash/TyCSport-audio_20001=145200.track_id=20001-8807260859134.mp4
+
+#EXTINF:-1 ,VTV tvg-chno="6" tvg-id="vtv.com"
 https://ul.cdn946.net:8443/hls/q2ju65ebedu.m3u8?s=AX0fLasqFT7LdTjGoRD3JA&e=1603576810
+
+
